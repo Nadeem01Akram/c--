@@ -12,6 +12,6 @@ int main()
     {
         cout << i << " ";
     }
-    cin >> number;
+    // cin >> number;
     return 0;
 }
